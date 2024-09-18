@@ -149,6 +149,10 @@
     @apply text-[2vw] text-justify mb-7;
 }
 
+.text-bl {
+    @apply text-[1.5vw] text-justify mb-4;
+}
+
 .flex-box-s {
     @apply flex gap-[3vw] items-center;
 }
