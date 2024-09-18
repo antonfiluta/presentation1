@@ -11,12 +11,12 @@ module.exports = {
       'white': '#FFFFFF',
       'black': '#000000',
     },
-    // fontFamily: {
-    //   OpenGost: ['OpenGost Type A TT', 'OpenGost Type A TT'],
-    //   sans: ['Roboto', 'Roboto'],
-    //   bebas: ['Bebas', 'Bebas Neue'],
-    //   znikomit: ['ZnikomitNo25', 'ZnikomitNo25'],
-    // },
+    fontFamily: {
+      OpenGost: ['OpenGost Type A TT', 'OpenGost Type A TT'],
+      sans: ['Roboto', 'Roboto'],
+      bebas: ['Bebas', 'Bebas Neue'],
+      znikomit: ['ZnikomitNo25', 'ZnikomitNo25'],
+    },
     extend: {},
   },
   plugins: [],
