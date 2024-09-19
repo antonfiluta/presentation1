@@ -138,7 +138,7 @@
 
 
 .slide {
-    @apply w-[95vw] lg:w-[90vw] h-[100vh] lg:h-[85dvh] bg-l rounded-lg shadow-[0_4dvh_20px_16px_rgba(0,0,0,0.3)] border-[3px] border-mr p-4 lg:p-10;
+    @apply w-[95vw] lg:w-[90vw] h-[100vh] lg:h-[95dvh] bg-l rounded-lg shadow-[0_4dvh_20px_16px_rgba(0,0,0,0.3)] border-[3px] border-mr p-4 lg:p-10;
 }
 
 .h2-b {
