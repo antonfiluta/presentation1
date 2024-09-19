@@ -638,8 +638,8 @@ video {
   gap: 3vw;
 }
 
-.gap-y-\[5dvh\] {
-  row-gap: 5dvh;
+.gap-y-\[5vh\] {
+  row-gap: 5vh;
 }
 
 .rounded-md {
@@ -651,8 +651,8 @@ video {
   background-color: rgb(56 15 23 / var(--tw-bg-opacity));
 }
 
-.pb-\[2\.5dvh\] {
-  padding-bottom: 2.5dvh;
+.pb-\[2\.5vh\] {
+  padding-bottom: 2.5vh;
 }
 
 .pt-1 {
@@ -663,8 +663,8 @@ video {
   padding-top: 10dvh;
 }
 
-.pt-\[2\.5dvh\] {
-  padding-top: 2.5dvh;
+.pt-\[2\.5vh\] {
+  padding-top: 2.5vh;
 }
 
 .text-center {
@@ -902,7 +902,7 @@ video {
 
 @media (min-width: 968px) {
   .slide {
-    height: 85dvh;
+    height: 95dvh;
     width: 90vw;
     padding: 2.5rem;
   }
@@ -1002,18 +1002,6 @@ video {
 
   .lg\:flex-row {
     flex-direction: row;
-  }
-
-  .lg\:gap-y-\[15dvh\] {
-    row-gap: 15dvh;
-  }
-
-  .lg\:pb-\[7\.5dvh\] {
-    padding-bottom: 7.5dvh;
-  }
-
-  .lg\:pt-\[7\.5dvh\] {
-    padding-top: 7.5dvh;
   }
 
   .lg\:text-left {
