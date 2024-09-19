@@ -156,3 +156,11 @@
 .flex-box-s {
     @apply flex gap-[3vw] items-center;
 }
+
+.image {
+  height: 65dvh;
+}
+
+.h-lit {
+  @apply text-center mb-[2.5vw] text-[2.5vw];
+}

@@ -2,6 +2,12 @@
 module.exports = {
   content: ["*.html"],
   theme: {
+    screens: {
+      sm: '520px',
+      md: '768px',
+      lg: '968px',
+      xl: '1440px',
+    },
     colors: {
       'dr': '#380F17',
       'mr': '#8F0B13',
