@@ -138,7 +138,7 @@
 
 
 .slide {
-    @apply w-[95vw] lg:w-[90vw] h-[95dvh] lg:h-[85dvh] bg-l rounded-lg shadow-[0_4dvh_20px_16px_rgba(0,0,0,0.3)] border-[3px] border-mr p-4 lg:p-10;
+    @apply w-[95vw] lg:w-[90vw] h-[100vh] lg:h-[85dvh] bg-l rounded-lg shadow-[0_4dvh_20px_16px_rgba(0,0,0,0.3)] border-[3px] border-mr p-4 lg:p-10;
 }
 
 .h2-b {
@@ -150,7 +150,7 @@
 }
 
 .text-bl {
-    @apply text-[1.5vw] text-justify mb-4;
+    @apply text-[3vw] lg:text-[1.5vw] text-justify mb-4;
 }
 
 .flex-box-s {
@@ -158,9 +158,9 @@
 }
 
 .image {
-  height: 65dvh;
+  @apply lg:h-[65dvh] lg:w-auto w-[90%]
 }
 
 .h-lit {
-  @apply text-center mb-[2.5vw] text-[2.5vw];
+  @apply text-center mb-[2.5vw] text-[6vw] lg:text-[2.5vw];
 }
